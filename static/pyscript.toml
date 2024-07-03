@@ -3,4 +3,4 @@ description = "A simple application showing how to use Matplotlib to generate a 
 packages = ["matplotlib"]
 
 [files]
-"./ipaexm.ttf" = ""
+"./static/ipaexm.ttf" = ""
